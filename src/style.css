@@ -41,6 +41,9 @@ img .cloudsUnderlay {
 .built {
   text-align: center;
 }
+a:hover {
+  color: #77628c;
+}
 .links {
   text-decoration: none;
   color: #ff9776;
